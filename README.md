@@ -7,8 +7,8 @@ This project is a C code interpreter written in OCaml. It aims to provide a ligh
 
 ### Prerequisites
 
-- OCaml (at least version 4.08.0)
-- OPAM (OCaml package manager)
+- OCaml (least version)
+- OPAM 
 
 ### Setup
 ```bash
