@@ -12,6 +12,6 @@ This project is a C code interpreter written in OCaml. It aims to provide a ligh
 
 ### Setup
  **Clone or Download This Repository by typing:**
-```
+```bash
 git https://github.com/stephanezab/C_Interpreter.git
 ```
