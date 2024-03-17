@@ -8,7 +8,7 @@ This project is a C code interpreter written in OCaml. It aims to provide a ligh
 ### Prerequisites
 
 - OCaml (least version)
-- OPAM 
+-  
 
 ### Setup
  **Clone or Download This Repository by typing:**
